@@ -1,4 +1,4 @@
-*Unique Tech: SCD40 CO2 Sensor Integration (I2C)*
+*Unique Tech: SCD40 CO2 Sensor Integration (I2C)
 
 Αυτό το αποθετήριο περιέχει τον κώδικα, τα ηλεκτρονικά σχέδια και την τεκμηρίωση για τη σύνδεση του αισθητήρα SCD40 (CO2) μέσω πρωτοκόλλου I2C. Το project αποτελεί μέρος του βραβευμένου βιο-ρομποτικού συστήματος της ομάδας Unique Tech (Sparmatseto Robotics).
 
