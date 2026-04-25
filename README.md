@@ -62,4 +62,4 @@
 
 * **🏗️ Lab: Sparmatseto Robotics**
 
-© 2026 Unique Tech Team | Innovation through Robotics
+© 2026 Unique Tech Team | All Rights Reserved
