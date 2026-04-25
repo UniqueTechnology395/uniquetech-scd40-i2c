@@ -36,7 +36,7 @@
 
 1. **Clone the Repo**
    ```bash
-   git clone [https://github.com/unique-tech/scd40-co2.git](https://github.com/unique-tech/scd40-co2.git)
+   git clone https://github.com/unique-tech/scd40-co2.git
 
 2. **Libraries**
    
