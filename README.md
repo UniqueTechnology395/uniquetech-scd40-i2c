@@ -37,24 +37,25 @@
 1. **Clone the Repo**
    ```bash
    git clone [https://github.com/unique-tech/scd40-co2.git](https://github.com/unique-tech/scd40-co2.git)
-Libraries
 
-Εγκατάσταση της βιβλιοθήκης Adafruit SCD4X από τον Library Manager του Arduino IDE.
+2. **Libraries**
+   
+ * ***Εγκατάσταση της βιβλιοθήκης Adafruit SCD4X από τον Library Manager του Arduino IDE.***
 
-Flash
+3. **Flash**
+   
+* **Άνοιγμα του αρχείου .ino από το φάκελο /src και Upload στην πλακέτα σας.**
 
-Άνοιγμα του αρχείου .ino από το φάκελο /src και Upload στην πλακέτα σας.
-
-📜 Άδεια Χρήσης (License)
-⚙️ Λογισμικό (Software)
+#📜 Άδεια Χρήσης (License)#
+**⚙️ Λογισμικό (Software)**
 Ο κώδικας αυτού του project διατίθεται υπό την άδεια MIT License.
 
 Προϋπόθεση: Πρέπει να συμπεριλαμβάνεται η αρχική δήλωση πνευματικών δικαιωμάτων της Unique Tech σε κάθε αντίγραφο ή σημαντικό μέρος του λογισμικού.
 
-📖 Περιεχόμενο & Τεκμηρίωση
+**📖 Περιεχόμενο & Τεκμηρίωση**
 Τα κείμενα, τα ηλεκτρονικά σχέδια και το εκπαιδευτικό υλικό αποτελούν πνευματική ιδιοκτησία της Unique Tech. Η αναπαραγωγή τους επιτρέπεται μόνο με σαφή αναφορά (attribution) στην αρχική πηγή.
 
-🔗 Σύνδεσμοι
+# 🔗 Σύνδεσμοι
 🌐 Website: uniquetech.carrd.co
 
 📝 Blog: Unique Tech Blog
