@@ -46,7 +46,7 @@
    
 * **Άνοιγμα του αρχείου .ino από το φάκελο /src και Upload στην πλακέτα σας.**
 
-#📜 Άδεια Χρήσης (License)#
+# 📜 Άδεια Χρήσης (License)
 **⚙️ Λογισμικό (Software)**
 Ο κώδικας αυτού του project διατίθεται υπό την άδεια MIT License.
 
@@ -56,10 +56,10 @@
 Τα κείμενα, τα ηλεκτρονικά σχέδια και το εκπαιδευτικό υλικό αποτελούν πνευματική ιδιοκτησία της Unique Tech. Η αναπαραγωγή τους επιτρέπεται μόνο με σαφή αναφορά (attribution) στην αρχική πηγή.
 
 # 🔗 Σύνδεσμοι
-🌐 Website: uniquetech.carrd.co
+* **🌐 Website: uniquetech.carrd.co**
 
-📝 Blog: Unique Tech Blog
+* **📝 Blog: Unique Tech Blog**
 
-🏗️ Lab: Sparmatseto Robotics
+* **🏗️ Lab: Sparmatseto Robotics**
 
 © 2026 Unique Tech Team | Innovation through Robotics
