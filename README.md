@@ -62,4 +62,6 @@
 
 * **🏗️ Lab: Sparmatseto Robotics**
 
-© 2026 Unique Tech Team | All Rights Reserved
+© 2026 Unique Tech Team | Some Rights Reserved
+
+Το περιεχόμενο προστατεύεται από πνευματικά δικαιώματα. Ο κώδικας διατίθεται υπό την άδεια MIT.
